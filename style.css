@@ -274,19 +274,19 @@ body{
     animation-name: slide;
     animation-iteration-count: infinite;
     animation-duration: 25s;
-    background: url('./image/nauto banner.jpg') ;
+    background: url('./image/Solo-Leveling-ARISE.png') ;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
 }
 .second{
-    background: url('./image/fate long banner.png') ;
+    background: url('./image/nauto banner.jpg') ;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center
 }
 .third{
-    background: url('./image/Goku banner.jpg') ;
+    background: url('./image/Goku\ banner.png') ;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center
